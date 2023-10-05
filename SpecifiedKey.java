@@ -1,7 +1,7 @@
 package hash;
 import java.util.HashMap;
 
-public class HashMapExample {
+public class SpecifiedKey {
     public static void main(String[] args) {
         HashMap<String, Integer> hashMap = new HashMap<>();
         String key = "exampleKey";
